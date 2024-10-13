@@ -1,0 +1,2 @@
+# SSM
+SimpleSkypeMailing
